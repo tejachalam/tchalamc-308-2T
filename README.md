@@ -1,2 +1,2 @@
 # tchalamc-308-2T
-Term 2
+Term 2 HI 
